@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Trabajo",
+    "timeframes": {
+      "daily": {
+        "current": 5,
+        "previous": 7
+      },
+      "weekly": {
+        "current": 32,
+        "previous": 36
+      },
+      "monthly": {
+        "current": 103,
+        "previous": 128
+      }
+    }
+  },
+  {
+    "title": "Tiempo Libre",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 2
+      },
+      "weekly": {
+        "current": 10,
+        "previous": 8
+      },
+      "monthly": {
+        "current": 23,
+        "previous": 29
+      }
+    }
+  },
+  {
+    "title": "Estudio",
+    "timeframes": {
+      "daily": {
+        "current": 2,
+        "previous": 3
+      },
+      "weekly": {
+        "current": 8,
+        "previous": 9
+      },
+      "monthly": {
+        "current": 20,
+        "previous": 21
+      }
+    }
+  },
+  {
+    "title": "Ejercicios",
+    "timeframes": {
+      "daily": {
+        "current": 2,
+        "previous": 1
+      },
+      "weekly": {
+        "current": 8,
+        "previous": 9
+      },
+      "monthly": {
+        "current": 20,
+        "previous": 21
+      }
+    }
+  },
+  {
+    "title": "Social",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 3
+      },
+      "weekly": {
+        "current": 5,
+        "previous": 10
+      },
+      "monthly": {
+        "current": 21,
+        "previous": 23
+      }
+    }
+  },
+  {
+    "title": "Cuidados Personales",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 1
+      },
+      "weekly": {
+        "current": 5,
+        "previous": 6
+      },
+      "monthly": {
+        "current": 15,
+        "previous": 16
+      }
+    }
+  }
+]
