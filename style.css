@@ -161,7 +161,7 @@ body {
     color: hsl(228, 45%, 44%); 
 }
 
-@media(min-width: 1200px){
+@media(min-width: 1000px){
     .main-container{
         width: 1150px;
         display: flex;
